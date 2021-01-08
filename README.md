@@ -1,4 +1,4 @@
 # TO DO LIST
-WEB APP for tasks menagment
+WEB APP for tasks managment
 
 python, flask
